@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RatInChat
 - 👀 I’m interested in code
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript, html, css, jquery, and PHP.
 - 💞️ I’m looking to collaborate on nothing ha.
 - 📫 How to reach me. You dont.
 
