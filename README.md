@@ -1,3 +1,7 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=RatInChat&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 - 👋 Hi, I’m @RatInChat
 - 👀 I’m interested in code
 - 🌱 I’m currently learning javascript, html, css, jquery, and PHP.
