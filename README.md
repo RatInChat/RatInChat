@@ -1,6 +1,6 @@
-<img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO gerardoandtherat.me FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+RatInChat!;HTML+Coder;JavaScript+Coder;PHP+Coder;CSS+Styler;Python+Learner;Star+The+Rats!">
 <h1 align="center">Hello, I'm RatInChat</h1>
 <h3 align="center">The Only Rat Who Knows How To Code!</h3>
+<img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO gerardoandtherat.me FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+RatInChat!;HTML+Coder;JavaScript+Coder;PHP+Coder;CSS+Styler;Python+Learner;Star+The+Rats!">
 <h2>Programmer Humor</h2>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <h2>About me</h2>
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue" alt="editor">
   <img src="https://img.shields.io/badge/Uses-stackoverflow-blue/?logo=stackoverflow&logoColor=warning&color=ef8236" alt="stack">
   <img alt="gmail" src="https://img.shields.io/badge/Uses-Gmail-blue/?logo=gmail&logoColor=warning&color=red">
-  <img alt="opera" src="https://img.shields.io/badge/Uses-OperaGX-blue/?logo=opera&logoColor=ff1b2d&color=ff1b2d">
+  <img alt="opera" src="https://img.shields.io/badge/Uses-Google-blue/?logo=google&logoColor=ff1b2d&color=ff1b2d">
   <img alt="steam" src="https://img.shields.io/badge/Uses-Steam-blue/?logo=steam&logoColor=1b2838&color=1b2838">
   <img src="https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA" alt="discord">
   <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/RatInChat?label=Sponsors&logo=githubsponsors&style=flat">
@@ -25,7 +25,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gerardoandterat.me/](https://gerardoandtherat.me/).
 
-- 📫 How to reach me jbarth632@gmail.com
+- 📫 How to reach me vishyfishyalt@gmail.com
 
 <h3 align="left">Connect with me</h3>
 nothing yet.
