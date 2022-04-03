@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm RatInChat</h1>
 <h3 align="center">The Only Rat Who Knows How To Code!</h3>
-<img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO gerardoandtherat.me FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Hello!+I+am+RatInChat!;HTML+Coder;JavaScript+Coder;PHP+Coder;CSS+Styler;Python+Learner;Star+The+Rats!">
+<img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO gerardoandtherat.me FOR GAMES AND STUFF!" src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Python+Coder;Star+The+Rats!">
 <h2>Programmer Humor</h2>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <h2>About me</h2>
