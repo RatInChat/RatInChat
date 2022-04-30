@@ -6,7 +6,7 @@
 <h2>About me</h2>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=RatInChat&label=Profile Visitors&color=001eff&style=flat" alt="Rats" /> 
-  <img src="https://img.shields.io/badge/OS-windows-lightgrey/?logo=windows" alt="os">
+  <img src="https://img.shields.io/badge/OS-linux-lightgrey/?logo=windows" alt="os">
   <img src="https://img.shields.io/badge/Editor-VS%20Code-blue/?logo=visualstudiocode&logoColor=blue&color=blue" alt="editor">
   <img src="https://img.shields.io/badge/Uses-stackoverflow-blue/?logo=stackoverflow&logoColor=warning&color=ef8236" alt="stack">
   <img alt="gmail" src="https://img.shields.io/badge/Uses-Gmail-blue/?logo=gmail&logoColor=warning&color=red">
