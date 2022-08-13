@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on learning more code.
 
-- 🌱 I’m currently learning [Python](https://www.google.com/books/edition/Python_All_in_One_For_Dummies/A0QlEAAAQBAJ?hl=en&gbpv=0).
+- 🌱 I’m currently learning nothing.
 
 - 👨‍💻 All of my projects are available at [https://ratinchat.github.io](https://ratinchat.github.io).
 
