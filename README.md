@@ -28,7 +28,7 @@
 - 📫 How to reach me vishyfishyalt@gmail.com
 
 <h3 align="left">Connect with me</h3>
-[![Discord Presence](https://lanyard.cnrad.dev/api/826175329110196244)](https://discord.com/users/826175329110196244)
+none so far
 <h2 align="left">Stats</h2>
 
 <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=RatInChat&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="RatInChat" /></p>
