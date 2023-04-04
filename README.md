@@ -1,5 +1,6 @@
 <h1 align="center">Hello, I'm RatInChat</h1>
 <h3 align="center">The Only Rat Who Knows How To Code!</h3>
+<h4 align="center">Don't expect any good public repositories.</h4>
 <img alt="IF YOU ARE VIEWING THIS PAGE FROM SEARCH, THIS IS NOT MY ACTUAL WEBSITE! GO TO RatInChat.github.io." src="https://readme-typing-svg.herokuapp.com?vCenter=true&lines=Python+Coder;Javascript+Dev;Discord.js+Bot+Maker;Svelte+Framework+User;HTML+Pager;CSS+Styler;Star+The+Rats!">
 <h2>Programmer Humor</h2>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
@@ -38,3 +39,4 @@ none so far
 
 
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/RatInChat/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/RatInChat/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/RatInChat/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
+<a href="https://universeodon.com/@ratinchat" target="_blank"><img align="bottom" src="https://img.shields.io/mastodon/follow/110142709185647288?domain=https%3A%2F%2Funiverseodon.com&label=Follow%20me&style=social" alt="Follow @adam on Mastodon" title="Mastodon">
